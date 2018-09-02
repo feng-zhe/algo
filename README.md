@@ -1,2 +1,8 @@
-# algo
-A summary for my algorithm nodes.
+
+# Complexity
+- Dijkstra: with priority queue O(|E| + |V|log(|V|); without O(|V|^2)
+-	A*: 	
+
+# Tips
+-	When get stucked, try Greedy and DP.
+-	Union-find to solve disjointed set problem; While DFS + coloring to solve exclusive grouping problem(No. 886)
