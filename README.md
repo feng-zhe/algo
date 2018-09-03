@@ -6,5 +6,5 @@
 # Tips
 -	When get stucked
     - Try Greedy and DP.
-    - Try an easier version of the problem. e.g. Two dimensions to one dimension.
--	Union-find to solve disjointed set problem; While DFS + coloring to solve exclusive grouping problem(No. 886)
+    - Try an easier version of the problem. e.g. Two dimensions to one dimension(No.296).
+-	Union-find to solve disjointed set problem; While DFS + coloring to solve exclusive grouping problem(No. 886).
