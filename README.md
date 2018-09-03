@@ -4,5 +4,7 @@
 -	A*: 	
 
 # Tips
--	When get stucked, try Greedy and DP.
+-	When get stucked
+    - Try Greedy and DP.
+    - Try an easier version of the problem. e.g. Two dimensions to one dimension.
 -	Union-find to solve disjointed set problem; While DFS + coloring to solve exclusive grouping problem(No. 886)
