@@ -1,7 +1,8 @@
 
 # Complexity
-- Dijkstra: with priority queue O(|E| + |V|log(|V|); without O(|V|^2)
+-   Dijkstra: with priority queue O(|E| + |V|log(|V|); without O(|V|^2)
 -	A*: Just Dijkstra with Heuristic values
+-   http://bigocheatsheet.com/
 
 # Tips
 -	When get stucked
